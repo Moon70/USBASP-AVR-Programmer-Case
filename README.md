@@ -8,22 +8,22 @@ Just a simple case to protect my AVR programmer. No screws needed.
 
 The naked USBASP AVR programmer:
 
-![USBASP-AVR-programmer](https://github.com/Moon70/Barrel-Twister/blob/main/images/USBASP-AVR-programmer.jpg?raw=true)
+![USBASP-AVR-programmer](https://github.com/Moon70/USBASP-AVR-Programmer-Case/blob/main/images/USBASP-AVR-programmer.jpg?raw=true)
 
 
 
 Case model:
 
-![Case](https://github.com/Moon70/Barrel-Twister/blob/main/images/Case.png?raw=true)
+![Case](https://github.com/Moon70/USBASP-AVR-Programmer-Case/blob/main/images/Case.png?raw=true)
 
 
 
 Cap model:
 
-![Cap](https://github.com/Moon70/Barrel-Twister/blob/main/images/Cap.png?raw=true)
+![Cap](https://github.com/Moon70/USBASP-AVR-Programmer-Case/blob/main/images/Cap.png?raw=true)
 
 
 
 Result, printed with transparent filament:
 
-![Result](https://github.com/Moon70/Barrel-Twister/blob/main/images/Result.jpg?raw=true)
+![Result](https://github.com/Moon70/USBASP-AVR-Programmer-Case/blob/main/images/Result.jpg?raw=true)
